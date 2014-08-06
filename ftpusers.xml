@@ -1,0 +1,4 @@
+<users>
+    <user username="anonymous" password="anonymous" alias="anonymous" privilege="131074" work_dir="C:\Users\yzy\Desktop\easyftp-server-1.7.0.11-cn\anonymous" welcome_msg="anonymous" disabled="no" />
+    <user username="yzy" password="065BB8694E92CB0CDBB65A89F13570A9" alias="yzy" privilege="131074" work_dir="C:\libips\" welcome_msg="" disabled="no" />
+</users>
